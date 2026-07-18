@@ -5,3 +5,4 @@ Took help from Bro Code and roadmap.sh
 https://roadmap.sh/projects/weather-api-wrapper-service
 
 to use this you'll need to pip install PyQt5 library in terminal
+paste "pip install PyQt5" in terminal and it'll install the PyQt5 PyPI package
